@@ -1,0 +1,5 @@
+  temel:
+
+shift enter kodu calýþtýrýr.
+
+shift +tab basarsak fonk özelligi cýkýyor.
